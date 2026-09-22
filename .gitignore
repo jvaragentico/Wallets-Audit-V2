@@ -1,0 +1,17 @@
+# Private wallet exports
+*_PRIVATE.csv
+*_PRIVATE.txt
+seed_phrases_PRIVATE.*
+balances_found_PRIVATE.*
+
+# Generated reports and runtime files
+balances.csv
+address_mapping.csv
+address_portfolio.csv
+seed_portfolio.csv
+public_addresses.txt
+outputs/
+*.log
+launch-error.txt
+__pycache__/
+*.py[cod]
