@@ -1,0 +1,25 @@
+[
+  {"name":"Ethereum","id":1,"symbol":"ETH","price_id":"ethereum","rpc":"https://ethereum.publicnode.com","tokens":[
+    {"symbol":"WETH","address":"0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2","decimals":18,"price_id":"weth"}
+  ]},
+  {"name":"BNB Smart Chain","id":56,"symbol":"BNB","price_id":"binancecoin","rpc":"https://bsc.publicnode.com","tokens":[]},
+  {"name":"Polygon","id":137,"symbol":"POL","price_id":"polygon-ecosystem-token","rpc":"https://polygon-bor.publicnode.com","tokens":[
+    {"symbol":"WETH","address":"0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619","decimals":18,"price_id":"weth"}
+  ]},
+  {"name":"Arbitrum One","id":42161,"symbol":"ETH","price_id":"ethereum","rpc":"https://arbitrum-one.publicnode.com","tokens":[
+    {"symbol":"WETH","address":"0x82aF49447D8a07e3bd95BD0d56f35241523fBab1","decimals":18,"price_id":"weth"}
+  ]},
+  {"name":"Optimism","id":10,"symbol":"ETH","price_id":"ethereum","rpc":"https://optimism.publicnode.com","tokens":[
+    {"symbol":"WETH","address":"0x4200000000000000000000000000000000000006","decimals":18,"price_id":"weth"}
+  ]},
+  {"name":"Base","id":8453,"symbol":"ETH","price_id":"ethereum","rpc":"https://base.publicnode.com","tokens":[
+    {"symbol":"WETH","address":"0x4200000000000000000000000000000000000006","decimals":18,"price_id":"weth"}
+  ]},
+  {"name":"Avalanche C-Chain","id":43114,"symbol":"AVAX","price_id":"avalanche-2","rpc":"https://avalanche-c-chain.publicnode.com","tokens":[]},
+  {"name":"Gnosis","id":100,"symbol":"xDAI","price_id":"xdai","rpc":"https://gnosis.publicnode.com","tokens":[]},
+  {"name":"Linea","id":59144,"symbol":"ETH","price_id":"ethereum","rpc":"https://rpc.linea.build","tokens":[]},
+  {"name":"zkSync Era","id":324,"symbol":"ETH","price_id":"ethereum","rpc":"https://mainnet.era.zksync.io","tokens":[]},
+  {"name":"Mantle","id":5000,"symbol":"MNT","price_id":"mantle","rpc":"https://rpc.mantle.xyz","tokens":[]},
+  {"name":"Sonic","id":146,"symbol":"S","price_id":"sonic-3","rpc":"https://rpc.soniclabs.com","tokens":[]}
+]
+
